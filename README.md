@@ -6,7 +6,9 @@
 This Dataset was created on Kaggle in September 2016 but the original version was hosted by Open Data by Socrata
 at: https://opendata.socrata.com/Government/Airplane-Crashes-and-Fatalities-Since-1908/q2te-8cvq (no longer available). The
 dataset contains data of airplane accidents involving civil, commercial and military transport worldwide from 1908-09-17 to
-2009-06-08.The data was cleaned before being loaded into the powerbi desktop. 
+2009-06-08. The dataset can be a accessed using this link- 
+https://www.kaggle.com/datasets/saurograndi/airplane-crashes-since-1908.
+The data was cleaned before being loaded into the powerbi desktop. 
 The following insights can be derived from the dashboard:
 
 • Fatalities by year
