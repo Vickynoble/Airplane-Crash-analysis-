@@ -3,9 +3,6 @@
 ![Screenshot (11)](https://user-images.githubusercontent.com/105227477/180027564-7a8bf12f-016a-4e92-a1b9-c98480c3c3f9.png)
 
 # About The Data
-At the time this Dataset was created in Kaggle (2016-09-09), the original version was hosted by Open Data by Socrata at the at: 
-https://opendata.socrata.com/Government/Airplane-Crashes-and-Fatalities-Since-1908/q2te-8cvq, but unfortunately that is not available anymore.
-
 This Dataset was created on Kaggle in September 2016 but the original version was hosted by Open Data by Socrata
 at: https://opendata.socrata.com/Government/Airplane-Crashes-and-Fatalities-Since-1908/q2te-8cvq (no longer available). The
 dataset contains data of airplane accidents involving civil, commercial and military transport worldwide from 1908-09-17 to
